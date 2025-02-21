@@ -20,3 +20,7 @@ print(f"The area of the circle with radius {radius} is {area:.2f}")
 So pyhton code didn't work because I don't understand python yet. So here is the courses example of some code... I think?
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+``` javascript
+var myVar = "Hello, world!";
+```
