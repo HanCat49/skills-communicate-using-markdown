@@ -23,4 +23,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ``` javascript
 var myVar = "Hello, world!";
-```
+
+### Task list
+- [ ] finish this skills communication using markdown
+- [ ] Complete profile for GitHub
+- [ ] Do 1 more GitHub skills course
